@@ -1,7 +1,7 @@
-# STC
+# Smart Traffic Control
 
 
-STC means Smart Traffic Control. It provides extensible packet-level control services, including per-app data usage, total data quota, and background app's data saving. STC Library provides APIs fulfilling below mentioned features for application development.
+Smart Traffic Control (STC) provides extensible packet-level control services, including per-app data usage, total data quota, and background app's data saving.. STC Library provides APIs fulfilling below mentioned features for application development.
 
 This feature is supported in mobile, tv and wearable profile.
 
@@ -17,6 +17,7 @@ The main features of the STC API include:
 
 
 > **Note**  
+
 > You can test the STC functionality on a target device only. The [emulator](../../../tizen-studio/common-tools/emulator.md) does not support this feature.
 
 ## Prerequisites
